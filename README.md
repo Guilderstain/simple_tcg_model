@@ -8,3 +8,7 @@ A simple test of a classification model with tensorflow to diferentiate chosen t
 - Utilizar más data para el entrenamiento en una mejor variedad de calidades, posiciones y distancias.
 - Probar con diferentes modelos base disponibles.
 - Realizar fine tunning.
+
+
+
+**Codigo escrito con TensorFlow 2.6.0**
