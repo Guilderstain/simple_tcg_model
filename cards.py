@@ -34,6 +34,6 @@ def main(filename):
     pred_and_plot(modelo,filename,class_names=class_names)
 
 
-
+# main
 if __name__ == "__main__":
     main(args.filepath)
